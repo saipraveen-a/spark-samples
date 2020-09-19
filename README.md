@@ -1,0 +1,1 @@
+The samples here are databricks notebooks and can be run on Azure Databricks or AWS Databricks. The samples use the datasets that are mounted by Databricks onto dbfs at databricks-datasets for the workspace. 
